@@ -1,0 +1,51 @@
+{
+  "name": "Bouchons-d-Or",
+  "version": "0.0.0",
+  "description": "Bouchons-d-Or =============",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-cli": "^0.1.13",
+    "grunt-svgmin": "^1.0.0",
+    "svgmin": "^0.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^1.0.1",
+    "grunt-cli": "^0.1.13",
+    "grunt-concurrent": "^0.5.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-compass": "^0.9.1",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-connect": "^0.8.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-htmlmin": "^0.3.0",
+    "grunt-contrib-imagemin": "^0.8.1",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-uglify": "^0.5.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-filerev": "^0.2.1",
+    "grunt-modernizr": "^0.5.2",
+    "grunt-newer": "^0.7.0",
+    "grunt-processhtml": "^0.3.3",
+    "grunt-rsync": "^0.6.2",
+    "grunt-swig": "^0.2.1",
+    "grunt-usemin": "^2.4.0",
+    "grunt-wiredep": "^1.8.0",
+    "jshint-stylish": "^0.4.0",
+    "load-grunt-tasks": "^0.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mahi-Mahi/Bouchons-d-Or.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahi-Mahi/Bouchons-d-Or/issues"
+  },
+  "homepage": "https://github.com/Mahi-Mahi/Bouchons-d-Or"
+}
