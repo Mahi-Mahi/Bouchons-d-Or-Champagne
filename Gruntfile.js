@@ -343,7 +343,7 @@ module.exports = function(grunt) {
       staging: {
         options: {
           src: "./dist/",
-          dest: "/home/askmedia/weekly/bouchonsdor",
+          dest: "/home/askmedia/weekly/bouchonsdor-champagne",
           host: "root@vps.mahi-mahi.fr",
           syncDestIgnoreExcl: true
         }
