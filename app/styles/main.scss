@@ -227,23 +227,26 @@ img {
 .about {
     display: block;
     float: right;
-    margin: 0;
+    margin: 0 20px 0 0;
     padding: 0;
 }
 
 .about a {
     -webkit-transition:all .5s linear;
     transition:all .5s linear;
-    border-radius:50%;
+    background:url(../images/png/mode-demploi.png) top left;
+    border-radius:10%;
     border:1px solid #cdc1ab;
+    text-indent: 100%;
+    overflow: hidden;
     color:#6f6371;
     display: block;
     font-size: 24px;
-    height: 45px;
-    line-height: 45px;
+    height: 73px;
+    line-height: 73px;
     text-align: center;
     text-decoration: none;
-    width: 45px;
+    width: 73px;
 }
 
 .about a:hover {
